@@ -1,13 +1,13 @@
 export const userData = {
-  githubUser: 'said7388',
-  devUsername: "said7388",
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
-  skills: ['React', 'NextJS', 'Redux', 'Express', 'NestJS', 'MySql', 'MongoDB', 'Postgres', 'Docker', 'AWS'],
-  timezone: '+6'
+  githubUser: 'popcorn150',
+  devUsername: "popcorn150",
+  github: 'https://github.com/popcorn150',
+  facebook: 'https://web.facebook.com/profile.php?id=100069689650864',
+  linkedIn: 'https://www.linkedin.com/in/david-dark-368b6b257/',
+  twitter: '?',
+  stackOverflow: 'https://stackoverflow.com/users/25135231/dark-damian',
+  leetcode: "?",
+  resume: "https://docs.google.com/document/d/1D5IlpWBIYg0P2ZfTOR933-hcnCecOD_FWb-_0Sh5CQk/edit?usp=sharing",
+  skills: ['HTML', 'CSS', 'JavaScript', 'Python', 'MySql', 'Docker'],
+  timezone: '+1'
 };
